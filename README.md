@@ -11,6 +11,7 @@ We attacked six of them, and planted hidden instructions for four real agents, t
 ![injection runs](https://img.shields.io/badge/valid_injection_runs-33-blue)
 ![secrets](https://img.shields.io/badge/secrets-100%25_fake-brightgreen)
 ![status](https://img.shields.io/badge/status-draft-orange)
+![license](https://img.shields.io/badge/license-MIT-lightgrey)
 
 **[📄 Read the full report →](REPORT.md)**
 
@@ -125,3 +126,7 @@ python3 -m harness.run_injection --case exfil_via_readme --agent claude-code --t
 ## 📚 Is this new?
 
 The **side-by-side attack comparison of agent sandbox products** is, as far as we found (checked 2026-11-12). Related work either tests model escape capability, compares sandboxes without live attacks, or tests one vendor's own system. The **prompt-injection part is not new.** It's included to connect agent behaviour to the sandbox results. Full list: [Prior work](REPORT.md#prior-work).
+
+## 📜 License
+
+Code is under the [MIT License](LICENSE).
