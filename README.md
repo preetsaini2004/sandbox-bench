@@ -10,7 +10,7 @@ We attacked six of them, and planted hidden instructions for four real agents, t
 ![agents](https://img.shields.io/badge/coding_agents-4-blue)
 ![injection runs](https://img.shields.io/badge/valid_injection_runs-33-blue)
 ![secrets](https://img.shields.io/badge/secrets-100%25_fake-brightgreen)
-![status](https://img.shields.io/badge/status-draft-orange)
+![status](https://img.shields.io/badge/status-final-brightgreen)
 ![license](https://img.shields.io/badge/license-MIT-lightgrey)
 
 **[📄 Read the full report →](REPORT.md)**

@@ -1,8 +1,9 @@
 # Do AI-agent sandboxes stop real attacks?
 
-**Status: draft, not yet public.** Results are from November 2026; prior work
-last checked 2026-11-12. Any finding that affects a real product is reported
-privately to its maintainers before publication.
+**Status: final.** Results are from November 2026; prior work last checked
+2026-11-12. No finding needed private disclosure: the network results are each
+sandbox's documented default, and the Docker escapes need a deliberate
+misconfiguration.
 
 ## Summary
 
