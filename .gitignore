@@ -1,0 +1,16 @@
+# secrets
+.env
+vm/.ssh/
+vps/.ssh/
+
+# generated / raw
+results/raw/
+*.img
+*.iso
+*.qcow2
+.venv/
+__pycache__/
+
+# local tool state, not project content
+.serena/
+graphify-out/

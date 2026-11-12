@@ -1,0 +1,2 @@
+# Pin per CLAUDE.md "pin every tool version". Installed inside the test VM only.
+traceleakcheck==0.2.2
